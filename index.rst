@@ -10,7 +10,7 @@ Visit `Balance.vanillagift.com <#>`_ to check or activate your Vanilla Gift Card
 
 .. image:: Button.png
    :alt: Balance.vanillagift.com
-   :target: https://balance.vanillagift.com
+   :target: https://pre.im/?LMJaCn8AeSiMk3qnnknE3EjUP8lfAdy5y2pKOBHs3DXZqnnZUaGBT0AbVmtzWjOAo72OS2FdAw3fRzIKhQ
 
 .. raw:: html
 
