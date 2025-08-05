@@ -16,7 +16,7 @@ Visit `Balance.vanillagift.com <#>`_ to check or activate your Vanilla Gift Card
 
     </div>
 
-How to Check and Activate Your Vanilla Gift Card
+How to Check and Activate Your Vanilla Gift Card ?
 ================================================
 
 Managing your Vanilla Gift Card is quick, secure, and easy. Follow these steps to check your balance or activate your card online.
